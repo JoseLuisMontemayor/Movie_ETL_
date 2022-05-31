@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Adding additional files
+movies_metadata.csv
+ratings.csv
+
+
